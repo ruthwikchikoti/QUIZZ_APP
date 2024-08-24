@@ -1,3 +1,4 @@
+Here’s the updated README with the requested addition:
 
 ---
 
@@ -23,6 +24,7 @@ Welcome to the **Super Quiz Challenge**! This is your go-to quiz app for testing
 ### 4. **Score Tracking:**
    - At the end of each quiz, you’ll get a summary showing your score along with the correct answers and explanations.
    - The app also keeps track of your high scores, so you can see how you stack up across different difficulty levels.
+   - Want to view your high scores anytime? Just click on the user icon in the top right corner, and your high scores will be displayed.
 
 ### 5. **Light and Dark Mode:**
    - Switch between light and dark themes based on your preference or mood. The app adjusts all colors and text for the best experience in each mode.
@@ -71,6 +73,7 @@ Welcome to the **Super Quiz Challenge**! This is your go-to quiz app for testing
 - Enter your name, hit “Start Quiz,” and dive in.
 - Answer the questions, get instant feedback, and see how you score.
 - Check out your high scores after each quiz to track your improvement.
+- Want to view your high scores anytime? Just click on the user icon in the top right corner!
 
 ---
 
