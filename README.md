@@ -38,8 +38,8 @@ Welcome to the **Super Quiz Challenge**! This is your go-to quiz app for testing
 1. **Clone this project** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/super-quiz-challenge.git
-   cd super-quiz-challenge
+   git clone https://github.com/ruthwikchikoti/schoolnetindia-QUIZZ_APP.git
+   cd schoolnetindia-QUIZZ_APP
    ```
 
 2. **Install the dependencies** you need:
@@ -77,5 +77,3 @@ Welcome to the **Super Quiz Challenge**! This is your go-to quiz app for testing
 And that's it! Super simple, right? Get ready to challenge yourself and learn something new with each quiz. Enjoy! 🎉
 
 ---
-
-Feel free to customize the parts of the README above to better fit your project, especially where it mentions the repository URL.
